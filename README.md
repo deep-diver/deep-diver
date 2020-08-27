@@ -8,17 +8,20 @@
 I am researcher & software developer at ETRI in south korea. My main areas of interest are SDN(Software Defined Network) for Optical Networks, Machine Learning & Deep Learning (Modeling, and Deployment liek MLOps), and Software Development in general.
 </p>
 
+### 👨🏼‍💻 Main
+- 👽 I'm currently working on **Software Defined Network for Optical Access Network**
+
+- 👽👽 I'm currently working on **Realizing nemory disaggregation for datacenter in Optical/Electronic hybrid network**
+
 - 🔭 I’m currently working on **MLOps projects with NLP model**
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch related things**
 
-- 👯 I’m looking to collaborate on **ML/DL projects**
-
-- 💬 Ask me about **everything**
+- 👯 I’m looking to collaborate on **any ML/DL projects**
 
 - 📫 How to reach me **deep.diver.csp@gmail.com**
 
-### 👯 Side jobs
+### 👯 Side
 - TFUG(TensorFlow User Group) Organizer at [**TensorFlow Korea**](https://www.facebook.com/groups/TensorFlowKR)
 - Community manager at [**fast.ai Korea**](https://www.facebook.com/groups/fastaikr)
 - Authoring at Packt (not published yet)
