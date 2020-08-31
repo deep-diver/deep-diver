@@ -5,7 +5,7 @@
 
 <p>
 👋 Hi! Welcome to my GitHub place.
-I am researcher & software developer at ETRI in south korea. My main areas of interest are SDN(Software Defined Network) for Optical Networks, Machine Learning & Deep Learning (Modeling, and Deployment liek MLOps), and Software Development in general.
+I am researcher & software developer at ETRI (Electronics and Telecommunication Research Institute) in south korea. My main areas of interest are SDN(Software Defined Network) for Optical Networks, Machine Learning & Deep Learning (Modeling, and Deployment liek MLOps), and Software Development in general.
 </p>
 
 ### 👨🏼‍💻 Main
