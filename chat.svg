@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Software Engineer and Researcher at ETRI</text>
     <text x="15" y="50">building SDN for Optical Access Network</text>
   </g>
@@ -368,8 +368,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="370" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">writing and translation IT books in Korean</text>    
+    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I run TensorFlow UserGoup in Korea</text>    
   </g>
 
   <!-- typing 6 -->
@@ -392,8 +392,8 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="375" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">director at JPUB which is Korean Publisher</text>    
+    <rect width="365" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">writing and translation IT books in Korean</text>
   </g>
   
 
