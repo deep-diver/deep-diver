@@ -251,7 +251,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jason</text>
+    <text x="15" y="27">Hi, I'm Chansung</text>
   </g>
 
   <!-- typing 2 -->
@@ -274,9 +274,8 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
-    <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
+    <rect width="439" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I am a Google Developers Expert for Machine Learning</text>
   </g>
 
   <!-- typing 3 -->
