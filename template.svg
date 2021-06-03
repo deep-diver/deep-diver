@@ -392,7 +392,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="350" height="42" rx="18.0355" class="bubble" />
+    <rect width="365" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">writing and translation IT books in Korean</text>
   </g>
   
