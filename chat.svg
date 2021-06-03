@@ -295,7 +295,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Software Engineer and Researcher at ETRI</text>
+    <text x="15" y="27">Software Engineer and Researcher at</text><text x="315" y="27" style="fill:blue; font-weight=bold;">ETRI</text>
     <text x="15" y="50">building SDN for Optical Access Network</text>
   </g>
 
@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Google Developers Expert for</text> <text x="258" y="27" style="fill:rgb(235, 128, 52); font-weight=bold;">Machine Learning</text>    
+    <text x="15" y="27">Google Developers Expert for</text> <text x="260" y="27" style="fill:rgb(235, 128, 52); font-weight=bold;">Machine Learning</text>    
     <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
 
