@@ -321,7 +321,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="435" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Google Developers Expert for Machine Learning</text>    
-    <text x="15" y="50">writing blogs & meaningful projects</text>
+    <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
 
   <!-- typing 4 -->
@@ -393,7 +393,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">writing & translation IT books in Korean</text>
+    <text x="15" y="27">writing and translation IT books in Korean</text>
   </g>
   
 
@@ -412,12 +412,11 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/algo_diver</a> </text>
-  </g>  
+  </g>
 </svg>
