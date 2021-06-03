@@ -53,27 +53,27 @@
       animation: wait 9.2s, msg-4 0.2s 9.2s;
     }
 
-    .typing-5 {
-      opacity: 0;
-      animation: wait 10s, fade-in-out 1.5s 10s;
-    }
-
     .msg-5 {
       animation: wait 11.7s, msg-5 0.2s 11.7s;
     }
 
+    .msg-6 {
+      animation: wait 14.2s, msg-6 0.2s 16.7s;
+    }    
+    
+    .typing-5 {
+      opacity: 0;
+      animation: wait 10s, fade-in-out 1.5s 10s;
+    }    
+    
     .typing-6 {
       opacity: 0;
       animation: wait 12.5s, fade-in-out 1.5s 12.5s;
     }
 
-    .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 14.2s;
-    }
-
     .typing-7 {
       opacity: 0;
-      animation: wait 15s, fade-in-out 1.5s 12.5s;
+      animation: wait 15s, fade-in-out 1.5s 15s;
     }
 
     .msg-7 {
