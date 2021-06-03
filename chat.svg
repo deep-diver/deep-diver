@@ -296,7 +296,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Software Engineer and Researcher at</text><text x="325" y="27" style="fill:blue; font-weight=bold;">ETRI</text>
-    <text x="15" y="50">building </text><text x="80" y="27" style="fill:blue; font-weight=bold;">SDN for Optical Access Network</text>
+    <text x="15" y="50">building </text><text x="80" y="50" style="fill:blue; font-weight=bold;">SDN for Optical Access Network</text>
   </g>
 
   <!-- typing 3 -->
