@@ -344,7 +344,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="380" height="42" rx="18.0355" class="bubble" />
+    <rect width="360" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I love to get involved within communities</text>
   </g>
 
