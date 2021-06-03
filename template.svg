@@ -274,7 +274,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="450" height="42" rx="18.0355" class="bubble" />
+    <rect width="480" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am a Google Developers Expert for Machine Learning</text>
   </g>
 
