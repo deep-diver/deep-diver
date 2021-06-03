@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Also I am a ML GDE, which is</text>    
     <text x="15" y="50">Google Developers Expert for Machine Learning</text>
   </g>
@@ -324,7 +324,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <rect width="430" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I love to get involved within communities</text>
   </g>
 
@@ -348,8 +348,9 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
+    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I run TensorFlow UserGoup in Korea, and</text>    
+    <text x="15" y="50">I work heavily on translation IT books</text>
   </g>
 
   <!-- typing 6 -->
