@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Google Developers Expert for Machine Learning</text>    
+    <text x="15" y="27">Google Developers Expert for</text> <text x="253.75" y="27" style="fill:rgb(132, 66, 245); font-weight=bold;">Machine Learning</text>    
     <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
 
