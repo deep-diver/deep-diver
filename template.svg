@@ -294,8 +294,8 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am a Software Engineer and Researcher at ETRI</text>
+    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Software Engineer and Researcher at ETRI</text>
     <text x="15" y="50">building SDN for Optical Access Network</text>
   </g>
 
@@ -319,9 +319,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Also I am a ML GDE, which is</text>    
-    <text x="15" y="50">Google Developers Expert for Machine Learning</text>
+    <rect width="435" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Google Developers Expert for Machine Learning</text>    
+    <text x="15" y="50">writing blogs & meaningful projects</text>
   </g>
 
   <!-- typing 4 -->
@@ -345,7 +345,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="360" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I love to get involved within communities</text>
+    <text x="15" y="27">community lead for official TensorFlow Korea</text>
   </g>
 
   <!-- typing 5 -->
@@ -393,7 +393,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I heavily work on translation IT books in Korean</text>
+    <text x="15" y="27">writing & translation IT books in Koreann</text>
   </g>
   
 
@@ -418,6 +418,9 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I heavily work on translation IT books in Korean</text>
+    <text x="15" y="27">
+      please reach out via
+      <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/algo_diver</a>    
+    </text>
   </g>  
 </svg>
