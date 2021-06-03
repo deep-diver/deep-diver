@@ -348,7 +348,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="445" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I run TensorFlow UserGoup in Korea</text>    
   </g>
 
