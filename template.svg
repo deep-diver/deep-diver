@@ -71,6 +71,15 @@
       animation: wait 14.2s, msg-6 0.2s 14.2s;
     }
 
+    .typing-7 {
+      opacity: 0;
+      animation: wait 15s, fade-in-out 1.5s 12.5s;
+    }
+
+    .msg-7 {
+      animation: wait 16.7s, msg-6 0.2s 14.2s;
+    }    
+    
     @keyframes wait {
       0%,
       100% {
@@ -373,7 +382,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="50">I heavily work on translation IT books in Korean</text>
+    <text x="15" y="27">I heavily work on translation IT books in Korean</text>
   </g>
   
 
@@ -398,6 +407,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="50">I heavily work on translation IT books in Korean</text>
+    <text x="15" y="27">I heavily work on translation IT books in Korean</text>
   </g>  
 </svg>
