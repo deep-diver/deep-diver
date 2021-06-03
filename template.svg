@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="435" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Google Developers Expert for Machine Learning</text>    
     <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
@@ -344,7 +344,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="360" height="42" rx="18.0355" class="bubble" />
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">community lead for official TensorFlow Korea</text>
   </g>
 
@@ -368,7 +368,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="445" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="340" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I run TensorFlow UserGoup in Korea</text>    
   </g>
 
@@ -416,7 +416,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="260" height="42" rx="18.0355" class="bubble" />
+    <rect width="445" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/algo_diver</a> </text>
   </g>
 </svg>
