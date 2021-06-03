@@ -250,7 +250,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="150" height="42" rx="18.0355" />
+    <rect width="170" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Chansung</text>
   </g>
 
@@ -325,10 +325,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
-    </text>
+    <text x="15" y="27">I love to get involved within communities</text>
   </g>
 
   <!-- typing 5 -->
