@@ -164,6 +164,17 @@
       }
     }
 
+    @keyframes msg-7 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 341px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 336px);
+      }
+    }    
+    
     @media (prefers-color-scheme: dark) {
       .bubble {
         fill: #3b3b3d;
