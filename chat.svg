@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm </text> <text x="70" y="27" style="fill:green; font-weight=bold;">Chansung</text>
+    <text x="15" y="27">Hi, I'm Chansung</text>
   </g>
 
   <!-- typing 2 -->
@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Software Engineer and Researcher at</text><text x="325" y="27" style="fill:blue; font-weight=bold;">ETRI</text>
-    <text x="15" y="50">building </text><text x="85" y="50" style="fill:blue; font-weight=bold;">SDN for Optical Access Network</text>
+    <text x="15" y="27">Software Engineer and Researcher at ETRI</text>
+    <text x="15" y="50">building SDN for Optical Access Network</text>
   </g>
 
   <!-- typing 3 -->
@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Google Developers Expert for</text> <text x="260" y="27" style="fill:rgb(235, 128, 52); font-weight=bold;">Machine Learning</text>    
+    <text x="15" y="27">Google Developers Expert for Machine Learning</text>    
     <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
 
