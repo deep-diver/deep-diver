@@ -1,4 +1,4 @@
-[![](https://github.com/deep-diver/deep-diver/blob/master/chat.svg)](https://twitter.com/deep_algo)
+[![](https://github.com/deep-diver/deep-diver/blob/master/chat.svg)](https://twitter.com/algo_diver)
 
 ![](https://activity-graph.herokuapp.com/graph?username=deep-diver&theme=react-dark&hide_border=true&area=true)
 
